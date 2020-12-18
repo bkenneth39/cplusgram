@@ -1,0 +1,53 @@
+.profile {
+    background-color: white;
+    
+    margin-left: 20px;
+    margin-right: 20px;
+    position: relative;
+    top: 25px;
+    display: flex;
+    padding: 20px;
+    padding-bottom: 0px;
+    border-radius: 15px;
+    
+}
+
+
+
+.picture-profile {
+    margin-right: 40px;
+    margin-bottom: 0px;
+    margin-top: 13px;
+}
+
+.picture-profile img {
+    margin-bottom: 0px;
+}
+
+.jenis-data {
+    margin-right: 5px;
+    font-weight: bold;
+}
+
+.data-profile {
+    margin-right: 40px;
+}
+
+
+.id-name .id {
+    color: grey;
+    opacity: 0.7;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+
+.id-name .fullName {
+    margin-top: 11px;
+    margin-bottom: 0px;
+}
+
+.id-name .link-post {
+    font-size: 13px;
+    margin-top: 0px;
+}

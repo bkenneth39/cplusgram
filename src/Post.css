@@ -1,0 +1,19 @@
+.all {
+   background-color:whitesmoke;
+    position: relative;
+    top: 25px;
+    border-radius: 25px;
+    display: inline-flex;
+    bottom: 15px;
+   
+
+}
+
+
+
+
+.card {
+    
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
