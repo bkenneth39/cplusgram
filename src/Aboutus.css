@@ -97,3 +97,47 @@ h1{
     margin-top: 0px;
     margin-bottom: 20px;
 }
+
+@media screen and (max-width: 420px) {
+    .all p{
+        font-size: 12px;
+        margin: 7px;
+    }
+
+    .kartu-mahasiswa{
+        width: 220px;
+        display: grid;
+        
+    }
+
+    .foto-muka img{
+        height: 100px;
+        width: 100px;
+        margin-top: 40px;
+    }
+
+    .data-diri{
+        top: 0px;
+    }
+
+    .data-diri p{
+        top: 0px;
+        font-size: 15px;
+    }
+
+    .foto-muka{
+        display: flex;
+        text-align: center;
+        
+    }
+
+    .foto-muka img{
+        display: flex;
+        align-items: center;
+        margin-left: 35px;
+    }
+
+    .nim{
+        margin-top: 0px;
+    }
+}

@@ -14,3 +14,17 @@
 .fullName{
     text-decoration: none;
 }
+
+@media screen and (max-width: 540px) {
+    .profile-card{
+        width: 250px;
+    }
+    .img-profile img{
+        width: 80px;
+        margin-right: 0px;
+    }
+    .fullName p{
+        font-size: 1px;
+    }
+}
+   

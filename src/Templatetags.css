@@ -19,3 +19,10 @@ h2{
     text-decoration: none;
     list-style: none;
 }
+
+@media screen and (max-width: 420px) {
+    .cover{
+        width: 250px;
+        left: 0;
+    }
+}

@@ -20,11 +20,11 @@ const Templatefullprofile = (props) => {
                 <p className="phone">Phone </p>
             </div>
             <div className="data-profile">
-                <p className="gender">:  {props.gender}</p>
-                <p className="dateOfBirth">:  {props.dateOfBirth}</p>
-                <p className="registerDate">:  {props.registerDate}</p>
-                <p className="email">:  {props.email}</p>
-                <p className="phone">:  {props.phone}</p>
+                <p className="gender">  {props.gender}</p>
+                <p className="dateOfBirth">  {props.dateOfBirth}</p>
+                <p className="registerDate">  {props.registerDate}</p>
+                <p className="email">  {props.email}</p>
+                <p className="phone">  {props.phone}</p>
             </div>
             <div className="location">
                 <p>Address</p>

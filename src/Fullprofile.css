@@ -51,3 +51,65 @@
     font-size: 13px;
     margin-top: 0px;
 }
+
+@media screen and (max-width: 680px){
+    .profile{
+        display: inline;
+        align-items: center;
+        
+        width: 150px;
+        text-align: center;
+        font-size: 15px;
+        padding: 0px;
+        color: white;
+    }
+    .jenis-data{
+        display: none;
+    }
+
+    .id-name .id {
+        color: white;
+        opacity: 0.7;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        
+    }
+    
+    .picture-profile {
+        margin-right: 0px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+    
+    .picture-profile img {
+        margin-bottom: 0px;
+    }
+    
+    .jenis-data {
+        margin-right: 0px;
+        font-weight: bold;
+    }
+    
+    .data-profile {
+        margin-right: 0px;
+    }
+    
+    
+    .id-name .id {
+        color: grey;
+        opacity: 0.7;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        
+    }
+    
+    .id-name .fullName {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    
+    .id-name .link-post {
+        font-size: 0px;
+        margin-top: 0px;
+    }
+}
